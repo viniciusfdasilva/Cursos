@@ -1,0 +1,300 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"me",
+				"meter\tTag"
+			],
+			[
+				"s",
+				"square"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/vinic/Desktop/Cursos/Web/PROJETO_I/projeto1.html",
+		"/C/Users/vinic/Desktop/Computação/COMPILADORES/Exemplos/Compilador-master/src/TabelaSimbolos.java",
+		"/C/Users/vinic/Desktop/NFe41191111027350000168550010007601941270384396 (1).xml",
+		"/C/Users/vinic/Desktop/Work/OrthoHelp/OrthoHelp/app/src/main/java/br/com/orthohelp/app/orthohelp/activ/InitialScreen.java",
+		"/C/Users/vinic/Desktop/Work/OrthoHelp/OrthoHelp/app/src/main/java/br/com/orthohelp/app/orthohelp/notif/Notificacao.java",
+		"/C/Users/vinic/Desktop/PUCMINAS/ADA/2-2019/Euleriano.java",
+		"/C/Users/vinic/Desktop/PUCMINAS/GRAFOS/576920/GrafoTeste/src/algoritmos/Kruskal.java",
+		"/C/Users/vinic/Desktop/Main.java",
+		"/C/Users/vinic/Desktop/Videos",
+		"/C/Users/vinic/Desktop/Computação/COMPILADORES/Exemplos/Compilador-master/src/Simbolo.java",
+		"/C/Users/vinic/Desktop/Computação/COMPILADORES/Exemplos/Compilador-master/src/Memoria.java",
+		"/C/Users/vinic/Desktop/Computação/COMPILADORES/Exemplos/Compilador-master/src/Buffer.java",
+		"/C/Users/vinic/Desktop/Computação/COMPILADORES/Exemplos/Compilador-master/src/Principal.java",
+		"/C/Users/vinic/Desktop/TRABALHO/Compiladores/LC/Failed.java",
+		"/C/Users/vinic/Desktop/TRABALHO/Compiladores/LC/ClassToken.java",
+		"/C/Users/vinic/Desktop/tp_compiladores/LC/Failed.java",
+		"/C/Users/vinic/Desktop/tp_compiladores/LC/ClassToken.java",
+		"/C/Users/vinic/Desktop/tp_compiladores/LC/SymbolTable.java",
+		"/C/Users/vinic/Desktop/tp_compiladores/LC/Symbol.java",
+		"/C/Users/vinic/Desktop/TrabalhosFaculdade-master/IPI/ProjetoFinal/IPI PUC MINAS/FONTE/JAVA/Scratch/src/resultado/Resultado.java",
+		"/C/Users/vinic/Desktop/SuperscalarSIM/src/SuperscalarSIM/pkg1/EntryRS.java",
+		"/C/Users/vinic/Desktop/TrabalhosFaculdade-master/IPI/ProjetoFinal/IPI PUC MINAS/FONTE/JAVA/Scratch/src/scratch/Scratch.java",
+		"/C/Users/vinic/Desktop/TrabalhosFaculdade-master/IPI/ProjetoFinal/IPI PUC MINAS/FONTE/JAVA/Scratch/src/people/Pessoa.java",
+		"/C/Users/vinic/Desktop/TrabalhosFaculdade-master/IPI/ProjetoFinal/IPI PUC MINAS/FONTE/JAVA/Scratch/src/database/DataBase.java",
+		"/C/Users/vinic/Desktop/TrabalhosFaculdade-master/IPI/ProjetoFinal/IPI PUC MINAS/FONTE/JAVA/Scratch/src/scratch/frame/Screen.java",
+		"/C/Users/vinic/Desktop/SuperscalarSIM/src/SuperscalarSIM/pkg1/Main.java",
+		"/C/Users/vinic/Desktop/SuperscalarSIM/src/SuperscalarSIM/pkg1/EntryROB.java",
+		"/C/Users/vinic/Desktop/TrabalhosFaculdade-master/AED-II/TP01/Palindromo/Palindromo.java",
+		"/C/Users/vinic/Desktop/Hacktoberfest2019-4/Java/Sum.java",
+		"/C/Users/vinic/Desktop/FunnyAlgorithms/summationWithThread/Driver.java",
+		"/C/Users/vinic/Desktop/FunnyAlgorithms/summationWithThread/Sum.java",
+		"/C/Users/vinic/Desktop/SuperscalarSIM/src/SuperscalarSIM/pkg1/FXMLDocumentController.java",
+		"/C/Users/vinic/Desktop/tp_compiladores/LC/LexicalAnalyzer.java",
+		"/C/Users/vinic/Desktop/tp_compiladores/LC/AnaliseSintatica.java",
+		"/C/Users/vinic/Desktop/tp_compiladores/LC/LC.java",
+		"/C/Users/vinic/Desktop/TRABALHO/Compiladores/LC/AnaliseSintatica.java",
+		"/C/Users/vinic/Desktop/TRABALHO/Compiladores/LC/SymbolTable.java",
+		"/C/Users/vinic/Desktop/TRABALHO/Compiladores/LC/Symbol.java",
+		"/C/Users/vinic/Desktop/TRABALHO/Compiladores/LC/LexicalAnalyzer.java",
+		"/C/Users/vinic/Desktop/TRABALHO/Compiladores/LC/LC.java",
+		"/C/Users/vinic/Desktop/Compiladores/LC/LC.java",
+		"/C/Users/vinic/Desktop/Computação/AED_II/TP01/Algebra_Booleana/MyIO.java",
+		"/C/Users/vinic/Desktop/Computação/COMPILADORES/Exemplos/Compilador-master/src/AnalisadorLexico.java",
+		"/C/Users/vinic/Desktop/Computação/COMPILADORES/Exemplos/Compilador-master/src/Rotulo.java",
+		"/C/Users/vinic/Desktop/Computação/COMPILADORES/Exemplos/Compilador-master/src/Parse.java",
+		"/C/Users/vinic/Desktop/Hacktoberfest-2/Sum.java",
+		"/C/Users/vinic/Desktop/Hacktoberfest-2/Main.java",
+		"/C/Users/vinic/Desktop/Hacktoberfest2019-4/Java/LL.java",
+		"/C/Users/vinic/Desktop/EngenhariaSoftware/test/engenhariasoftware/VendaTest.java",
+		"/C/Users/vinic/Desktop/Amnesia_full/src/cpu/ALU.java",
+		"/C/Users/vinic/Desktop/Amnesia_full/src/Amnesia.java",
+		"/C/Users/vinic/Desktop/MarsLaunch.java",
+		"/C/Users/vinic/Desktop/Mars.java",
+		"/C/Users/vinic/Desktop/Compiladores/LC/src/lc/LC.java",
+		"/C/Users/vinic/Desktop/LC/src/lex/ClassToken.java",
+		"/C/Users/vinic/Desktop/LC/src/LC.java",
+		"/C/Users/vinic/Desktop/LC/src/lex/SymbolTable.java",
+		"/C/Users/vinic/Desktop/LC/src/lex/Symbol.java",
+		"/C/Users/vinic/Desktop/LC/src/lex/LexicalAnalyzer.java",
+		"/C/Users/vinic/Desktop/Compiladores/src/lc/LC.java",
+		"/C/Users/vinic/AppData/Local/Temp/Rar$DIa15496.3691/._astah_uml_license.xml",
+		"/C/Users/vinic/Documents/PUC_MINAS/COMPUTAÇÃO/LDDM/Dental/app/src/main/java/com/example/vinic/dentalapp/ActivityCorretivo1.java",
+		"/C/Users/vinic/Documents/Work/Odontology/Source App/OrthoApp/OthoApp/app/src/main/res/layout/recyclerview.xml",
+		"/C/Users/vinic/Documents/Work/Odontology/Source App/OrthoApp/OthoApp/app/src/main/res/layout/textview.xml",
+		"/C/Users/vinic/AppData/Local/Temp/Rar$DIa516.3592/gridview.xml",
+		"/C/Users/vinic/AppData/Local/Temp/Rar$DIa16056.46466/content_main.xml",
+		"/C/Users/vinic/AppData/Local/Temp/Rar$DIa16056.47003/activity_main.xml",
+		"/C/Users/vinic/AppData/Local/Temp/Rar$DIa16056.47448/menu_main.xml",
+		"/C/Users/vinic/AppData/Local/Temp/Rar$DIa15496.4187/astah_uml_license.xml",
+		"/C/Users/vinic/Documents/Work/Odontology/Source App/OrthoApp/OthoApp/app/src/main/res/layout/activity_recycler_view.xml",
+		"/C/Users/vinic/Desktop/Rel05_Envia_Arduino/Java_c_progs/teste_envia_java/teste_envia_java.java",
+		"/C/Users/vinic/Documents/Curso_Android/Aula2/app/src/main/res/layout/atividade.xml",
+		"/C/Users/vinic/Documents/Curso_Android/FirebaseApp/app/src/main/java/firebaseapp/cursoandroid/com/firebaseapp/MainActivity.java",
+		"/C/Users/vinic/Downloads/Grafo.java",
+		"/C/Users/vinic/IdeaProjects/untitled/src/Main.java",
+		"/C/Users/vinic/IdeaProjects/untitled/src/CharacterString.java",
+		"/C/Users/vinic/Downloads/Scratch (2).java",
+		"/C/Users/vinic/Documents/Git Hub/Projeto-final-IPI/IPI PUC MINAS/FONTE/JAVA/Scratch/src/scratch/Scratch.java",
+		"/C/Users/vinic/Documents/Git Hub/PROJECT-IPI/Scratch/src/scratch/Scratch.java",
+		"/C/Users/vinic/Documents/Git Hub/DentalApp/app/src/main/java/com/example/vinic/dentalapp/InterceptativoNavigationActivity.java",
+		"/C/Users/vinic/Documents/Git Hub/DentalApp/app/src/main/java/com/example/vinic/dentalapp/ItemClickListener.java",
+		"/C/Users/vinic/Documents/Git Hub/DentalApp/app/src/main/java/com/example/vinic/dentalapp/MainActivity.java",
+		"/C/Users/vinic/Documents/Git Hub/DentalApp/app/src/main/java/com/example/vinic/dentalapp/PalatinoActivity.java",
+		"/C/Users/vinic/Documents/Curso_Android/Advinha/app/src/main/java/com/example/vinic/advinha/MainActivity.java",
+		"/C/Users/vinic/Documents/Git Hub/PROJECT-IPI/Scratch/src/scratch/frame/Screen.java",
+		"/C/Users/vinic/Documents/Git Hub/PROJECT-IPI/Scratch/src/resultado/Resultado.java",
+		"/C/Users/vinic/Documents/Curso_Android/Caraoucoroa/app/src/main/java/caraoucoroa/cursoandroid/com/caraoucoroa/MainActivity.java",
+		"/C/Users/vinic/Documents/Curso_Android/Caraoucoroa/app/src/main/java/caraoucoroa/cursoandroid/com/caraoucoroa/Main2Activity.java",
+		"/C/Users/vinic/Documents/Curso_Android/Aula2/app/src/main/res/layout/activity_main.xml",
+		"/C/Users/vinic/Desktop/DentalApp/app/src/main/java/com/example/vinic/dentalapp/CorretivoActivity.java",
+		"/C/Users/vinic/Documents/Curso_Android/Signos/app/src/main/java/signos/cursoandroid/com/signos/MainActivity.java",
+		"/C/Users/vinic/Documents/Curso_Android/Signos/app/src/main/res/layout/activity_main.xml",
+		"/C/Users/vinic/Documents/Curso_Android/Signos/app/src/main/res/layout/activity_main2.xml",
+		"/C/Users/vinic/Documents/Curso_Android/Signos/app/src/main/java/signos/cursoandroid/com/signos/Main2Activity.java",
+		"/C/Users/vinic/Documents/Curso_Android/SQLite/app/src/main/java/database/cursoandroid/com/sqlite/MainActivity.java",
+		"/C/Users/vinic/Desktop/teste.xml",
+		"/C/Users/vinic/Documents/Git Hub/OrthoApp/app/src/main/java/br/com/agenda/google/agenda/MainActivity.java",
+		"/C/Users/vinic/Desktop/WhatsApp/app/src/main/AndroidManifest.xml",
+		"/C/Users/vinic/Desktop/WhatsApp/app/src/main/res/values/dimens.xml",
+		"/C/Users/vinic/Desktop/DentalApp/app/src/main/res/layout/app_bar_interceptativo.xml",
+		"/C/Users/vinic/Desktop/DentalApp/app/src/main/res/layout/content_corretivo.xml",
+		"/C/Users/vinic/Desktop/DentalApp/app/src/main/res/layout/content_interceptativo.xml",
+		"/C/Users/vinic/Desktop/DentalApp/app/src/main/res/layout/corretivofixocomocuidar.xml",
+		"/C/Users/vinic/Desktop/DentalApp/app/src/main/res/layout/corretivofixocomofunciona.xml",
+		"/C/Users/vinic/Desktop/DentalApp/app/src/main/res/layout/corretivofixoemergencias.xml",
+		"/C/Users/vinic/Desktop/DentalApp/app/src/main/res/layout/corretivofixopartesdoaparelho.xml",
+		"/C/Users/vinic/Desktop/DentalApp/app/src/main/res/layout/corretivofixoseparadores.xml",
+		"/C/Users/vinic/Desktop/DentalApp/app/src/main/res/layout/corretivofixotopicosespeciais.xml",
+		"/C/Users/vinic/Desktop/DentalApp/app/src/main/res/layout/corretivopalatinocomocuidar.xml",
+		"/C/Users/vinic/Desktop/DentalApp/app/src/main/res/layout/corretivopalatinocomofunciona.xml",
+		"/C/Users/vinic/Desktop/DentalApp/app/src/main/res/layout/corretivopalatinoemergencias.xml",
+		"/C/Users/vinic/Desktop/DentalApp/app/src/main/res/layout/corretivopalatinopartesdoaparelho.xml",
+		"/C/Users/vinic/Desktop/DentalApp/app/src/main/res/layout/intantil_activity.xml",
+		"/C/Users/vinic/Desktop/DentalApp/app/src/main/res/layout/interceptativoextrabucaiscombinado.xml",
+		"/C/Users/vinic/Desktop/DentalApp/app/src/main/res/layout/interceptativoextrabucaiscervical.xml",
+		"/C/Users/vinic/Desktop/DentalApp/app/src/main/res/layout/interceptativoextrabucaismascarafacial.xml",
+		"/C/Users/vinic/Desktop/DentalApp/app/src/main/res/layout/interceptativoextrabucaismentoneira.xml",
+		"/C/Users/vinic/Desktop/DentalApp/app/src/main/res/layout/interceptativoextrabucaisobliquo.xml",
+		"/C/Users/vinic/Desktop/WhatsAppClone/app/src/main/java/br/com/whatsappclone/cursoandroid/whatsappclone/helper/Preferencias.java",
+		"/C/Users/vinic/Desktop/DentalApp/app/src/main/res/layout/my_text_view.xml",
+		"/C/Users/vinic/Desktop/DentalApp/app/src/main/res/layout/textview.xml",
+		"/C/Users/vinic/Desktop/DentalApp/app/src/main/res/layout/textviewextrabucal.xml",
+		"/C/Users/vinic/Desktop/DentalApp/app/src/main/res/layout/recyclerviewextrabucal.xml",
+		"/C/Users/vinic/Desktop/DentalApp/app/src/main/res/layout/recyclerviewfixo.xml",
+		"/C/Users/vinic/Desktop/DentalApp/app/src/main/res/layout/recyclerviewpalatino.xml",
+		"/C/Users/vinic/Desktop/DentalApp/app/src/main/res/layout/switch_item.xml",
+		"/C/Users/vinic/Desktop/DentalApp/app/src/main/java/com/example/vinic/dentalapp/MainActivity.java",
+		"/C/Users/vinic/Desktop/DentalApp/app/src/main/res/values/strings.xml"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
