@@ -1,0 +1,30 @@
+version: '3.5'
+
+services:   
+
+################################# MYSQL ################################
+    db:
+        image: mysql:8.0
+        command: --default-authentication-plugin=mysql_native_password
+        restart: always
+        container_name: db_mysql
+        
+        environment:
+            MYSQL_ROOT_PASSWORD: root
+            MYSQL_DATABASE: mysql
+        ports: 
+            - 3307:3306
+################################# MYSQL ################################
+
+################################# DJANGO ###############################
+    web:
+        build: .
+        container_name: frame_django
+        command: python3.9 pets/manage.py runserver 0.0.0.0:8000
+        volumes:
+            - .:/code
+        ports:
+            - "8080:8080"
+        depends_on:
+            - db
+################################# DJANGO ###############################
